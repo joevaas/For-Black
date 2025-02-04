@@ -16,7 +16,7 @@ DB_NAME = os.environ.get("DB_NAME", "Pream")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002199934355"))
-FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "-1002012842756"))
+FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "-1002161437490"))
 
 FORCE_SUB_CHANNEL_2 = int(os.environ.get("FORCE_SUB_CHANNEL_2", "-1002191966684"))
 
